@@ -231,6 +231,7 @@ ul.forms_right li {
 	line-height: 0px!important;
 	height: 0px!important;
 	text-shadow: 0 1px 2px rgba(0, 0, 0, 0.29);
+	background: url("iconteste.jpg");
 }
 
 .navbar-default a.navbar-brand h1 {
@@ -1940,3 +1941,5 @@ div#bs-example-navbar-collapse-1 {
 }
 }
 /*-- /responsive design --*/
+
+
